@@ -2,9 +2,10 @@
 	"name": "windi-native",
 	"author": "Lautaro Pereyra <hi@imlautaro.com>",
 	"description": "Change the default behavior of browsers for a native experience in your website with Windi CSS",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"main": "index.js",
 	"license": "MIT",
+	"types": "types/index.d.ts",
 	"keywords": [
 		"windicss"
 	],
