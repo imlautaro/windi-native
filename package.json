@@ -1,6 +1,22 @@
 {
 	"name": "windi-native",
-	"version": "1.0.0",
+	"author": "Lautaro Pereyra <hi@imlautaro.com>",
+	"description": "Change the default behavior of browsers for a native experience in your website with Windi CSS",
+	"version": "0.1.0",
 	"main": "index.js",
-	"license": "MIT"
+	"license": "MIT",
+	"keywords": [
+		"windicss"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/imlautaro/windi-native.git"
+	},
+	"bugs": "https://github.com/imlautaro/windi-native/issues",
+	"dependencies": {
+		"windicss": "^3.1.8"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
